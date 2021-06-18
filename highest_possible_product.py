@@ -1,4 +1,4 @@
-/*
+'''
 Given an array of N integers, your task is to print the highest possible product by multiplying any three numbers from the array.
 
 Input Format
@@ -22,7 +22,7 @@ Sample Input 0
 Sample Output 0
 
 350000
-*/
+'''
 
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 n=int(input())
